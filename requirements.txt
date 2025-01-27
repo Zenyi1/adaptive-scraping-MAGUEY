@@ -1,0 +1,4 @@
+ollama
+playwright
+playwright-stealth
+beautifulsoup4
