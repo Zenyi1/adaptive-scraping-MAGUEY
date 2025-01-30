@@ -1,4 +1,3 @@
-# Import necessary libraries
 import json
 import ollama
 from playwright.sync_api import sync_playwright
@@ -6,9 +5,9 @@ from playwright_stealth import stealth_sync
 from bs4 import BeautifulSoup
 import traceback
 
-# Define the URL to scrape
+# define the URL to scrape
 url = input("Enter the URL to scrape: ")  # This will prompt the user for a URL
-# Or you can hardcode it:
+# or  hardcode it:
 # url = "https://example.com"
 
 # Web Scraper class definition
@@ -55,17 +54,17 @@ class WebScraper:
             elif 'facebook' in href:
                 contact_info['social_media']['facebook'] = href
 
-        # Extract phone numbers (look for tel: links and common phone patterns)
+        #look for phone numbers (look for tel: links and common phone patterns)
         phone_links = soup.find_all('a', href=lambda x: x and 'tel:' in x)
         for link in phone_links:
             contact_info['phone'] = link['href'].replace('tel:', '')
         
-        # Extract emails (look for mailto: links)
+        #(look for mailto: links)
         email_links = soup.find_all('a', href=lambda x: x and 'mailto:' in x)
         for link in email_links:
             contact_info['email'] = link['href'].replace('mailto:', '')
         
-        # Extract text content for company info
+        #text content for company info
         main_content = soup.find('main') or soup.find('article') or soup.find('div', class_=['content', 'main'])
         if main_content:
             contact_info['company_info'] = main_content.get_text(separator=' ', strip=True)
@@ -82,22 +81,22 @@ class WebScraper:
         return structured_data
 
 
-# Function to scrape and extract data
+
 def query_web_scraper(url: str) -> dict:
     scraper = WebScraper(headless=False)
     return scraper.query_page_content(url)
 
-# Function to write raw HTML to file
+# write raw HTML to file
 def write_raw_html_to_file(raw_html: str, filename: str = "scraped_content.html"):
     with open(filename, "w", encoding="utf-8") as f:
         f.write(raw_html)
     print(f"Raw HTML content has been written to {filename}")
 
 
-# Initialize model and messages
+# model selection
 model = 'llama3.1'
 
-# Revised system message to be more focused on contact information
+
 system_message = {
     'role': 'system',
     'content': '''You are a specialized data extractor focused on finding business contact information and company details. 
@@ -123,16 +122,16 @@ system_message = {
     Format all information in a clean, structured JSON format.'''
 }
 
-# More specific user message
+# specific user message
 user_message = {
     'role': 'user',
     'content': f'Please analyze the webpage at {url} and extract all contact information and company details as specified. Focus on finding any possible way to contact the business.'
 }
 
-# Initialize conversation with the system message and user query
+# initialize conversation with the system message and user query
 messages = [system_message, user_message]
 
-# First API call: Send the query and function description to the model
+# 1st call: send the query and function description to the model
 response = ollama.chat(
     model=model,
     messages=messages,
@@ -157,14 +156,14 @@ response = ollama.chat(
     ]
 )
 
-# Append the model's response to the existing messages
+# append the model's response to the existing messages
 messages.append({
     'role': 'assistant',
     'content': response['message']['content'],
     'tool_calls': response['message'].get('tool_calls', [])
 })
 
-# Check if the model decided to use the provided function
+
 if not response['message'].get('tool_calls'):
     print("The model didn't use the function. Its response was:")
     print(response['message']['content'])
@@ -181,10 +180,9 @@ else:
         
         print(f"Function '{function_name}' was called with the URL: {function_args['url']}")
         
-        # Write raw HTML to file
+
         write_raw_html_to_file(scraped_data['raw_html'])
         
-        # Add function response to the conversation
         messages.append({
             'role': 'tool',
             'name': function_name,
@@ -205,7 +203,7 @@ else:
         }
         messages.append(additional_instruction)
 
-        # Final API call: Get structured JSON response from the model
+        # get structured JSON response from the model
         final_response = ollama.chat(model=model, messages=messages)
         print(final_response['message']['content'])
     else:
