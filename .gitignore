@@ -1,2 +1,5 @@
 venv/
 scraped_content.html
+node_modules/
+spirits_locations.json
+
