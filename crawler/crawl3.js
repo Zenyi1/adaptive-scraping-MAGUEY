@@ -82,8 +82,11 @@ const csvWriter = require('csv-writer').createObjectCsvWriter;
             website = await page.evaluate(element => element.getAttribute('href'), websiteEelements[0]);
         }
 
-        const phoneElements = await page.$$('buton[data-tooltip="Copy phone number"]');
-        const phone = await page.evaluate(element => element.textContent, phoneElements[0]);
+        const phoneElements = await page.$$('button[data-tooltip="Copy phone number"]');
+        let phone = '';
+        if (phoneElements.length > 0) {
+            phone = await page.evaluate(element => element.textContent, phoneElements[0]);
+        }
 
         console.log(`URL: ${url}`);
         console.log(`Address: ${address}`);
