@@ -23,9 +23,9 @@ const fs = require('fs');
         if (element) {
             console.log('Element found, starting to scroll...');
             while (!element.innerText.includes(targetText)) {
-                element.scrollBy(0, 1000); // Adjust the scroll amount as needed
+                element.scrollBy(0, 700); // Adjust the scroll amount as needed
                 console.log('Scrolling...'); // Log when it scrolls
-                await new Promise(resolve => setTimeout(resolve, 500)); // Adjust the delay as needed
+                await new Promise(resolve => setTimeout(resolve, 200)); // Adjust the delay as needed
             }
             console.log('Reached the end of the list.');
         } else {
@@ -47,3 +47,6 @@ const fs = require('fs');
 
     await browser.close();
 })();
+
+//Second xpath //*[@id="QA0Szd"]/div/div/div[1]/div[2]/div/div[1]/div/div/div[9]
+
