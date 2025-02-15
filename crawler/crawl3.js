@@ -94,7 +94,7 @@ const csvWriter = require('csv-writer').createObjectCsvWriter;
         console.log(`Website: ${website}`);
         console.log(`Phone: ${phone}`);
 
-        records.push({ title, address, website });
+        records.push({ title, address, website, phone });
     }
 
     // Write records to CSV
