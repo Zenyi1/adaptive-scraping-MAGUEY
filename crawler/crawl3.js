@@ -103,3 +103,4 @@ const csvWriter = require('csv-writer').createObjectCsvWriter;
 
     await browser.close();
 })();
+

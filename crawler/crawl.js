@@ -50,3 +50,8 @@ const fs = require('fs');
 
 //Second xpath //*[@id="QA0Szd"]/div/div/div[1]/div[2]/div/div[1]/div/div/div[9]
 
+
+//Thrid xpath *[@id="QA0Szd"]/div/div/div[1]/div[2]/div/div[1]/div/div/div[9]/div[3]/button/div/div[2]/div[1]
+
+
+// 4th xpath //*[@id="QA0Szd"]/div/div/div[1]/div[2]/div/div[1]/div/div/div[2]/div/div[1]/div[1]/h1/span[1]
