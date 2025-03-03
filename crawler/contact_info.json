@@ -1,0 +1,208 @@
+{
+  "website": "https://www.magueyexchange.com",
+  "emails": [
+    {
+      "email": "sales@magueyexchange.com",
+      "source_url": "https://www.magueyexchange.com/for-producers"
+    },
+    {
+      "email": "support@magueyexchange.com",
+      "source_url": "https://www.magueyexchange.com/privacy-policy"
+    },
+    {
+      "email": "rob@magueyexchange.com",
+      "source_url": "https://www.magueyexchange.com/blog/beyond-the-25-understanding-the-real-impact-of-tariffs-on-artisanal-spirits-and-wine"
+    },
+    {
+      "email": "hello@magueyexchange.com",
+      "source_url": "https://www.magueyexchange.com/blog/bridging-the-digital-divide-empowering-rural-producers-in-the-beverage-industry-part-2"
+    }
+  ],
+  "social_media": [
+    {
+      "url": "https://www.instagram.com/magueyexchange/",
+      "handle": "magueyexchange",
+      "source_url": "https://www.magueyexchange.com"
+    },
+    {
+      "url": "https://www.linkedin.com/company/maguey-exchange/",
+      "handle": "maguey-exchange",
+      "source_url": "https://www.magueyexchange.com"
+    },
+    {
+      "url": "https://www.facebook.com/magueyexchange",
+      "handle": "magueyexchange",
+      "source_url": "https://www.magueyexchange.com"
+    }
+  ],
+  "team_members": [
+    {
+      "name": "Rob Weir",
+      "title": "Rob Weir is a former Airborne Ranger in the U.S. Army with over 11 years of experience in organizati",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/about"
+    },
+    {
+      "name": "ANTHONY RUIZCALDERON",
+      "title": "Anthony Ruizcalderon is a former Captain in the U.S. Army and has over 10 years of experience in fin",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/about"
+    },
+    {
+      "name": "Diana Morris",
+      "title": "Diana Morris has over 15 years of experience in communication, compliance, and personal and organiza",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/about"
+    },
+    {
+      "name": "Tracking Tools and Opt-Out",
+      "title": "The Services use cookies and similar technologies such as pixel tags, web beacons, clear GIFs and Ja",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/privacy-policy#contact-us"
+    },
+    {
+      "name": "Your Choices.",
+      "title": "You have a number of choices about how we handle Personal Information we collect and receive about y",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/privacy-policy#contact-us"
+    },
+    {
+      "name": "Security and Retention.",
+      "title": "We seek to protect your Personal Information from unauthorized access, use and disclosure using appr",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/privacy-policy#contact-us"
+    },
+    {
+      "name": "Children’s Privacy.",
+      "title": "We do not knowingly collect or solicit Personal Information about children under sixteen (16) years ",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/privacy-policy#contact-us"
+    },
+    {
+      "name": "Third Party Links.",
+      "title": "Our Services may contain links to other sites that we do not own or operate. Also, links to our Serv",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/privacy-policy#contact-us"
+    },
+    {
+      "name": "State Law Privacy Rights.",
+      "title": "California Resident Rights: Under California Civil Code Sections 1798.83-1798.84, California residen",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/privacy-policy#contact-us"
+    },
+    {
+      "name": "Contact Us.",
+      "title": "If you have any questions about this Privacy Policy or our privacy practices, please contact us noti",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/privacy-policy#contact-us"
+    },
+    {
+      "name": "Consulting and Advisory Services",
+      "title": "Maguey Exchange provides a comprehensive suite of consulting and advisory services to help streamlin",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/navigating-complex-supply-chains-in-the-artisanal-agave-spirits-industry#mastering-supply-chain-management-in-the-artisanal-agave-spirits-industry"
+    },
+    {
+      "name": "MGx Buyer Portal",
+      "title": "Our MGx Buyer Portal harnesses the power of technology to bring unprecedented transparency and contr",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/navigating-complex-supply-chains-in-the-artisanal-agave-spirits-industry#mastering-supply-chain-management-in-the-artisanal-agave-spirits-industry"
+    },
+    {
+      "name": "I. Introduction",
+      "title": "In our ever-evolving world, the food and beverage (F&B) supply chain finds itself grappling with an ",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/enhancing-the-food-and-beverage-supply-chain-through-technology-and-innovation#iii-a-new-era-of-supply-chain-management"
+    },
+    {
+      "name": "The Standard-Bearers",
+      "title": "Among these pioneers, companies like Flexport, project44, and Coyote Logistics stand out. Flexport, ",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/enhancing-the-food-and-beverage-supply-chain-through-technology-and-innovation#iii-a-new-era-of-supply-chain-management"
+    },
+    {
+      "name": "A New Horizon",
+      "title": "As the digital age advanced, so too did the tools at our disposal. The advent of cloud computing and",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/enhancing-the-food-and-beverage-supply-chain-through-technology-and-innovation#iii-a-new-era-of-supply-chain-management"
+    },
+    {
+      "name": "Evaluating Our Starting Point",
+      "title": "The first step in this journey is taking a candid look at our current technological landscape. It's ",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/enhancing-the-food-and-beverage-supply-chain-through-technology-and-innovation#iii-a-new-era-of-supply-chain-management"
+    },
+    {
+      "name": "Navigating the Adoption Maze",
+      "title": "As we consider integrating new technologies, the path is strewn with critical decisions. The cost of",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/enhancing-the-food-and-beverage-supply-chain-through-technology-and-innovation#iii-a-new-era-of-supply-chain-management"
+    },
+    {
+      "name": "Industry-Specific Needs Assessment",
+      "title": "Developing a vertical SaaS framework for the artisanal spirits and wine industry requires a thorough",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/theorizing-a-practical-blueprint-a-vertical-saas-framework-for-the-artisanal-spirits-and-wine-industry#data-management-and-analytics"
+    },
+    {
+      "name": "Data Management and Analytics",
+      "title": "A critical component of the Vertical SaaS Application Framework for the artisanal spirits and wine i",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/theorizing-a-practical-blueprint-a-vertical-saas-framework-for-the-artisanal-spirits-and-wine-industry#data-management-and-analytics"
+    },
+    {
+      "name": "Marketing and Sales Enablement",
+      "title": "This section delves into the dynamic interplay of marketing and customer relationship management, cr",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/theorizing-a-practical-blueprint-a-vertical-saas-framework-for-the-artisanal-spirits-and-wine-industry#data-management-and-analytics"
+    },
+    {
+      "name": "Supply Chain Optimization",
+      "title": "Within the Vertical SaaS framework for the artisanal spirits and wine industry, the integration of a",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/theorizing-a-practical-blueprint-a-vertical-saas-framework-for-the-artisanal-spirits-and-wine-industry#data-management-and-analytics"
+    },
+    {
+      "name": "Compliance and Quality Assurance",
+      "title": "The Vertical SaaS framework for the artisanal spirits and wine industry must rigorously address comp",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/theorizing-a-practical-blueprint-a-vertical-saas-framework-for-the-artisanal-spirits-and-wine-industry#data-management-and-analytics"
+    },
+    {
+      "name": "Sustainability and Ethical Practices",
+      "title": "A Vertical SaaS framework dedicated to this industry must prioritize these aspects, offering robust ",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/theorizing-a-practical-blueprint-a-vertical-saas-framework-for-the-artisanal-spirits-and-wine-industry#data-management-and-analytics"
+    },
+    {
+      "name": "Continuous Improvement and Scalability",
+      "title": "In the evolving landscape of the artisanal spirits and wine industry, a Vertical SaaS framework must",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/theorizing-a-practical-blueprint-a-vertical-saas-framework-for-the-artisanal-spirits-and-wine-industry#data-management-and-analytics"
+    },
+    {
+      "name": "Conclusion",
+      "title": "The Vertical SaaS application framework we've laid out represents a groundbreaking blueprint for the",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/theorizing-a-practical-blueprint-a-vertical-saas-framework-for-the-artisanal-spirits-and-wine-industry#data-management-and-analytics"
+    },
+    {
+      "name": "Addressing Unique Industry Challenges",
+      "title": "Platforms in the spirits industry are strategically designed to overcome specific challenges:",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/the-promise-of-vertical-saas-in-artisanal-spirits#innovative-approaches-in-fresh-food-and-spirits-supply-chain-management"
+    },
+    {
+      "name": "Byproducts of Mezcal Production",
+      "title": "According to a report from the World Bank, global agricultural waste production is more than four an",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/reducing-mezcals-footprint-by-repurposing-production-byproducts#impact-and-management-of-liquid-byproducts"
+    },
+    {
+      "name": "A Call to Action",
+      "title": "There is no Planet B. And with agricultural byproducts only increasing as more agricultural goods ar",
+      "source": "heading-pattern",
+      "source_url": "https://www.magueyexchange.com/blog/reducing-mezcals-footprint-by-repurposing-production-byproducts#impact-and-management-of-liquid-byproducts"
+    }
+  ]
+}

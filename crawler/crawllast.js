@@ -13,7 +13,7 @@ if (!place || !area) {
 }
 
 async function launchBrowser() {
-    return await chromium.launch({ headless: false });
+    return await chromium.launch({ headless: true });
 }
 
 async function handleCookieConsent(page) {
@@ -51,12 +51,12 @@ async function scrapeDetails(page, url) {
 
     const address = await page.evaluate(() => {
         const element = document.evaluate('//*[@id="QA0Szd"]/div/div/div[1]/div[2]/div/div[1]/div/div/div[9]/div[3]/button/div/div[2]/div[1]', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
-        return element?.innerText || 'Address not found';
+        return element?.innerText || '';
     });
 
     const title = await page.evaluate(() => {
         const element = document.evaluate('//*[@id="QA0Szd"]/div/div/div[1]/div[2]/div/div[1]/div/div/div[2]/div/div[1]/div[1]/h1', document, null, XPathResult.FIRST_ORDERED_NODE_TYPE, null).singleNodeValue;
-        return element?.innerText || 'Title not found';
+        return element?.innerText || '';
     });
 
     const websiteElements = await page.$$('a[data-tooltip="Open website"], a[data-tooltip="Open menu link"]');
@@ -70,7 +70,7 @@ async function scrapeDetails(page, url) {
 
 async function writeFiles(records) {
     // Write CSV
-    const csvPath = path.join(__dirname, 'output.csv');
+    const csvPath = path.join(__dirname, 'output2.csv');
     const writer = csvWriter({
         path: csvPath,
         header: [
@@ -84,7 +84,7 @@ async function writeFiles(records) {
     console.log(`CSV saved to ${csvPath}`);
 
     // Write JSON
-    const jsonPath = path.join(__dirname, 'output.json');
+    const jsonPath = path.join(__dirname, 'output2.json');
     fs.writeFileSync(jsonPath, JSON.stringify(records, null, 2));
     console.log(`JSON saved to ${jsonPath}`);
 }

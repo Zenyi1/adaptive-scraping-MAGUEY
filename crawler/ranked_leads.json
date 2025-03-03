@@ -1,0 +1,178 @@
+[
+  {
+    "rank": 1,
+    "title": "Century Grand",
+    "address": "\n3626 E Indian School Rd, Phoenix, AZ 85018, United States",
+    "phone": "\n+1 602-739-1388",
+    "rating": 4.8,
+    "reviewCount": 4,
+    "category": "",
+    "website": "https://bartershake.com/",
+    "mapUrl": "https://www.google.com/maps/place/Century+Grand/data=!4m7!3m6!1s0x872b0dab9fa0ef01:0x827d27dbb3480d30!8m2!3d33.4953962!4d-112.0030914!16s%2Fg%2F11qzc80ftv!19sChIJAe-gn6sNK4cRMA1Is9snfYI?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "rank": 2,
+    "title": "Postino Central",
+    "address": "\n5144 N Central Ave, Phoenix, AZ 85012, United States",
+    "phone": "\n+1 602-274-5144",
+    "rating": 4.7,
+    "reviewCount": 4,
+    "category": "",
+    "website": "https://www.postinowinecafe.com/locations/postino-9co",
+    "mapUrl": "https://www.google.com/maps/place/Postino+Central/data=!4m7!3m6!1s0x872b12c0d3d3e569:0xefa6d80c1aa92190!8m2!3d33.5126361!4d-112.0740766!16s%2Fg%2F1tf65ynm!19sChIJaeXT08ASK4cRkCGpGgzYpu8?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "rank": 3,
+    "title": "The Whining Pig Phoenix",
+    "address": "\n1612 E Bethany Home Rd, Phoenix, AZ 85016, United States",
+    "phone": "\n+1 602-633-1244",
+    "rating": 4.7,
+    "reviewCount": 4,
+    "category": "",
+    "website": "https://untappd.com/v/the-whining-pig-phoenix/1121821",
+    "mapUrl": "https://www.google.com/maps/place/The+Whining+Pig+Phoenix/data=!4m7!3m6!1s0x872b0d57f723d337:0x4cc7a4f25241e945!8m2!3d33.5239097!4d-112.0467862!16s%2Fg%2F1ydvy__mp!19sChIJN9Mj91cNK4cRRelBUvKkx0w?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "rank": 4,
+    "title": "LOVECRAFT // New Mexican inspired smoke kitchen",
+    "address": "\n3128 E Cactus Rd, Phoenix, AZ 85032, United States",
+    "phone": "\n+1 602-237-5046",
+    "rating": 4.7,
+    "reviewCount": 4,
+    "category": "",
+    "website": "https://www.lovecraftphx.com/food",
+    "mapUrl": "https://www.google.com/maps/place/LOVECRAFT+%2F%2F+New+Mexican+inspired+smoke+kitchen/data=!4m7!3m6!1s0x872b73e739116c13:0x6cf4c3bb0544a813!8m2!3d33.5973068!4d-112.0140503!16s%2Fg%2F11gy1vx1rb!19sChIJE2wROedzK4cRE6hEBbvD9Gw?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "rank": 5,
+    "title": "Rough Rider",
+    "address": "\n1001 N Central Ave, Phoenix, AZ 85004, United States",
+    "phone": "\n+1 602-675-0439",
+    "rating": 4.7,
+    "reviewCount": 4,
+    "category": "",
+    "website": "https://roughrideraz.com/menu/",
+    "mapUrl": "https://www.google.com/maps/place/Rough+Rider/data=!4m7!3m6!1s0x872b13ef9ccf7c0d:0x630ecb9b156658a5!8m2!3d33.4589438!4d-112.0735001!16s%2Fg%2F11nn1dxgcr!19sChIJDXzPnO8TK4cRpVhmFZvLDmM?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "rank": 6,
+    "title": "Platform 18 at Century Grand",
+    "address": "\n3626 E Indian School Rd, Phoenix, AZ 85018, United States",
+    "phone": "\n+1 602-739-1388",
+    "rating": 4.6,
+    "reviewCount": 4,
+    "category": "",
+    "website": "https://bartershake.com/wp-content/uploads/2025/01/Platform-18-menu.pdf",
+    "mapUrl": "https://www.google.com/maps/place/Platform+18+at+Century+Grand/data=!4m7!3m6!1s0x872b0de4610b1b79:0x24bd09dc7ff6f44!8m2!3d33.4954364!4d-112.0030019!16s%2Fg%2F11h3smmsnh!19sChIJeRsLYeQNK4cRRG__x53QSwI?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "rank": 7,
+    "title": "The Attic Ale House",
+    "address": "\n4247 E Indian School Rd #102, Phoenix, AZ 85018, United States",
+    "phone": "\n+1 602-955-1967",
+    "rating": 4.6,
+    "reviewCount": 4,
+    "category": "",
+    "website": "http://www.theatticalehouseaz.com/menu/",
+    "mapUrl": "https://www.google.com/maps/place/The+Attic+Ale+House/data=!4m7!3m6!1s0x872b0c508c917155:0xd1f0feb0c782a49a!8m2!3d33.494646!4d-111.9895335!16s%2Fg%2F12q4qbp76!19sChIJVXGRjFAMK4cRmqSCx7D-8NE?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "rank": 8,
+    "title": "The Whining Pig Downtown",
+    "address": "\n201 E Washington St #104, Phoenix, AZ 85004, United States",
+    "phone": "\n+1 602-603-9987",
+    "rating": 4.6,
+    "reviewCount": 4,
+    "category": "",
+    "website": "http://www.thewhiningpig.com/menu.html",
+    "mapUrl": "https://www.google.com/maps/place/The+Whining+Pig+Downtown/data=!4m7!3m6!1s0x872b121f77310eab:0xf1d088002a5364c7!8m2!3d33.4477409!4d-112.0710414!16s%2Fg%2F11g888s5l7!19sChIJqw4xdx8SK4cRx2RTKgCI0PE?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "rank": 9,
+    "title": "The Macintosh",
+    "address": "\n2119 E Camelback Rd, Phoenix, AZ 85016, United States",
+    "phone": "\n+1 602-368-8766",
+    "rating": 4.6,
+    "reviewCount": 4,
+    "category": "",
+    "website": "https://www.themacintoshaz.com/updates",
+    "mapUrl": "https://www.google.com/maps/place/The+Macintosh/data=!4m7!3m6!1s0x872b0d65e2d39513:0x414f36f3e862c13f!8m2!3d33.5076236!4d-112.0374754!16s%2Fg%2F1ptydxkcf!19sChIJE5XT4mUNK4cRP8Fi6PM2T0E?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "rank": 10,
+    "title": "Ole Brass Rail",
+    "address": "\n3738 E Thomas Rd, Phoenix, AZ 85018, United States",
+    "phone": "\n+1 602-956-1280",
+    "rating": 4.5,
+    "reviewCount": 4,
+    "category": "",
+    "website": "http://places.singleplatform.com/old-brass-rail/menu?ref=google",
+    "mapUrl": "https://www.google.com/maps/place/Ole+Brass+Rail/data=!4m7!3m6!1s0x872b0db5325302d9:0x5e9de17e9f7e55e9!8m2!3d33.4808149!4d-112.000155!16s%2Fg%2F1tflb3gv!19sChIJ2QJTMrUNK4cR6VV-n37hnV4?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "rank": 11,
+    "title": "Crown Public House",
+    "address": "\n333 E Jefferson St, Phoenix, AZ 85004, United States",
+    "phone": "\n+1 602-368-4344",
+    "rating": 4.5,
+    "reviewCount": 4,
+    "category": "",
+    "website": "https://crownpublichouse.com/menu",
+    "mapUrl": "https://www.google.com/maps/place/Crown+Public+House/data=!4m7!3m6!1s0x872b13fb812ef855:0x9524c6fdc8901d89!8m2!3d33.446175!4d-112.0689985!16s%2Fg%2F11h2cd0x32!19sChIJVfgugfsTK4cRiR2QyP3GJJU?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "rank": 12,
+    "title": "The Vig",
+    "address": "\n606 N 4th Ave, Phoenix, AZ 85003, United States",
+    "phone": "\n+1 602-254-2242",
+    "rating": 4.4,
+    "reviewCount": 4,
+    "category": "",
+    "website": "https://thevig.us/wp-content/uploads/2020/05/the-vig-menu-2020.pdf",
+    "mapUrl": "https://www.google.com/maps/place/The+Vig/data=!4m7!3m6!1s0x872b12182b2f2f7b:0xc273c0c49f5b15f3!8m2!3d33.455031!4d-112.079327!16s%2Fg%2F1yj2mg5vx!19sChIJey8vKxgSK4cR8xVbn8TAc8I?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "rank": 13,
+    "title": "Chambers Bohemian Whiskey Lounge & Kitchen",
+    "address": "\n705 N 1st St, Phoenix, AZ 85004, United States",
+    "phone": "\n+1 602-296-5043",
+    "rating": 4.4,
+    "reviewCount": 4,
+    "category": "",
+    "website": "https://chambersphx.com/menu/",
+    "mapUrl": "https://www.google.com/maps/place/Chambers+Bohemian+Whiskey+Lounge+%26+Kitchen/data=!4m7!3m6!1s0x872b123d5cbba5d7:0xfb2a30d4af30dd75!8m2!3d33.455882!4d-112.0723841!16s%2Fg%2F1thxwpkb!19sChIJ16W7XD0SK4cRdd0wr9QwKvs?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "rank": 14,
+    "title": "Seamus McCaffrey's Irish Pub",
+    "address": "\n18 W Monroe St, Phoenix, AZ 85003, United States",
+    "phone": "\n+1 602-253-6081",
+    "rating": 4.4,
+    "reviewCount": 4,
+    "category": "",
+    "website": "http://www.seamusmccaffreys.com/page/at-the-bar",
+    "mapUrl": "https://www.google.com/maps/place/Seamus+McCaffrey%27s+Irish+Pub/data=!4m7!3m6!1s0x872b12224a90db05:0x8b86e1c8c1a054a!8m2!3d33.4506009!4d-112.0743722!16s%2Fg%2F12214f5w3!19sChIJBduQSiISK4cRSgUajBxuuAg?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "rank": 15,
+    "title": "Wren & Wolf",
+    "address": "\n2 N Central Ave #101, Phoenix, AZ 85004, United States",
+    "phone": "\n+1 602-562-3510",
+    "rating": 4.4,
+    "reviewCount": 4,
+    "category": "",
+    "website": "https://static1.squarespace.com/static/615b9bcc11f5da2a28a1de9a/t/64250ab47e50b0397ce8152b/1680149172306/Wren+%26+Wolf+Dinner+3.29.23+black.pdf",
+    "mapUrl": "https://www.google.com/maps/place/Wren+%26+Wolf/data=!4m7!3m6!1s0x872b13dda631de2d:0x87297a7bf56486aa!8m2!3d33.448415!4d-112.0749091!16s%2Fg%2F11rj_ydbyj!19sChIJLd4xpt0TK4cRqoZk9Xt6KYc?authuser=0&hl=en&rclk=1"
+  },
+  {
+    "rank": 16,
+    "title": "Blue Hound Kitchen & Cocktails",
+    "address": "\n2 E Jefferson St, Phoenix, AZ 85004, United States",
+    "phone": "\n+1 602-258-0231",
+    "rating": 4.2,
+    "reviewCount": 4,
+    "category": "",
+    "website": "http://places.singleplatform.com/blue-hound-kitchen--cocktails/menu?ref=google",
+    "mapUrl": "https://www.google.com/maps/place/Blue+Hound+Kitchen+%26+Cocktails/data=!4m7!3m6!1s0x872b1221aff1179b:0x5968cdfd6ed77e82!8m2!3d33.4475746!4d-112.0734047!16s%2Fg%2F119wl6qg1!19sChIJmxfxryESK4cRgn7Xbv3NaFk?authuser=0&hl=en&rclk=1"
+  }
+]
