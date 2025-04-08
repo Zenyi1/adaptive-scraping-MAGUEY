@@ -254,6 +254,8 @@ async function scrapeDetailsWithRetry(page, url, retries = 0) {
             };
         });
         
+        console.log(`Extracted details for ${url}:`, basicDetails); // Log extracted details
+        
         // Extract website URL specifically using the original selectors
         let website = '';
         try {
@@ -422,6 +424,7 @@ async function processBatch(batch, page) {
             console.error(`Error in processBatch for ${url}: ${error.message}`);
         }
     }
+    console.log(`Batch processed. Records:`, batchRecords); // Log batch records
     return batchRecords;
 }
 
